@@ -1,6 +1,4 @@
 ## Resume Uploader Django Project
-### Watch Tutorial:- https://youtu.be/835Ez8SeAvE
-
 
 ### Highlights:
 * Radio Button
